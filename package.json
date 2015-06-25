@@ -1,0 +1,19 @@
+{
+  "name": "CreatingModule",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venukandagatla/NodeJSModule.git"
+  },
+  "author": "Venu Kandagatla <venu.kandagatla@gmail.com> (https://github.com/venukandagatla/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venukandagatla/NodeJSModule/issues"
+  },
+  "homepage": "https://github.com/venukandagatla/NodeJSModule"
+}
