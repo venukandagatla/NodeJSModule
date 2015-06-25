@@ -1,3 +1,7 @@
 npm set init.author.name "Venu Kandagatla"
 npm set init.author.email "venu.kandagatla@gmail.com"
 npm set init.author.url "https://github.com/venukandagatla/"
+
+
+npm install mocha --save-dev
+npm install chai --save-dev

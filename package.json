@@ -1,19 +1,30 @@
 {
   "name": "CreatingModule",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
+    "test": "./node_modules/.bin/mocha --reporter nyan"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/venukandagatla/NodeJSModule.git"
   },
   "author": "Venu Kandagatla <venu.kandagatla@gmail.com> (https://github.com/venukandagatla/)",
-  "license": "ISC",
+  "licenses": [
+  {
+    "type": "MIT",
+    "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+  }
+],
   "bugs": {
     "url": "https://github.com/venukandagatla/NodeJSModule/issues"
   },
-  "homepage": "https://github.com/venukandagatla/NodeJSModule"
+  "homepage": "https://github.com/venukandagatla/NodeJSModule",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
 }
+
